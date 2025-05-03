@@ -9,7 +9,7 @@ img{
 body{
     text-align: center;
     background-color: rgb(63, 82, 74);
-    background: url("https://wallpapercave.com/wp/wp4193338.jpg");
+    background-image: url("https://wallpapercave.com/wp/wp4193338.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -19,5 +19,6 @@ body{
 p{
     font-size: 20px;
     color: #d4ff00;
-    font-family: 'Anton', cursive;
+    font-family: 'Anton
+', cursive;
 }
